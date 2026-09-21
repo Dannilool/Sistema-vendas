@@ -1,0 +1,7 @@
+Login admin 
+admin@sistemavendas.com
+senha: admin123	
+
+Login vendas
+vendas@vendaspro.com
+vendas123
